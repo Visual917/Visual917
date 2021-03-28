@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://discord.gg/NF2MGz9">
-  <img align="center" src="https://badgen.net/badge/icon/twitter?icon=discord&color=yellow&label=contact&label" />
+  <img align="center" src="https://badgen.net/badge/icon/discord?icon=discord&color=yellow&label=contact" />
 </a>
 <a href="https://twitter.com/Visual917">
   <img align="center" src="https://badgen.net/badge/icon/twitter?icon=twitter&color=yellow&label=contact" />
