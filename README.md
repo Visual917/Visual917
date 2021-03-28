@@ -4,7 +4,3 @@
 <a href="https://visu.studio">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Visual917&layout=compact&theme=material-palenight" />
 </a>
-
-<a href="https://visu.studio">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Visual917&repo=PS2RPC&theme=material-palenight" />
-</a>    
