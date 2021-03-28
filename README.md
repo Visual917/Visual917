@@ -7,4 +7,6 @@
 <img align="center" src="https://visu.studio/old/gtamoddingcommunity1.png">
 <img align="center" src="https://visu.studio/old/ps2developer2.png">
 </a>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Visual917&langs_count=10&layout=compact)](https://github.com/Visual917?tab=repositories)
+<a href="https://github.com/Visual917?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Visual917&langs_count=10&layout=compact" alt="Visu." />
+</a>
