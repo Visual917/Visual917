@@ -12,5 +12,5 @@
   <img align="center" src="https://badgen.net/badge/icon/discord?icon=discord&color=yellow&label=contact" />
 </a>
 <a href="https://twitter.com/Visual917">
-  <img align="center" src="https://badgen.net/badge/icon/twitter?icon=twitter&color=yellow&label=contact" />
+  <img align="center" src="https://badgen.net/badge/twitter/contact?icon=twitter&labelColor=#000000&color=yellow&label=twitter" />
 </a>
