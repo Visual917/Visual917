@@ -14,6 +14,6 @@
 <a href="https://twitter.com/Visual917">
   <img align="center" src="https://badgen.net/badge/twitter/contact?icon=twitter&color=001FFF&labelColor=#000000&label=twitter" />
 </a>
-<a href="https://twitter.com/Visual917">
+<a href="https://play.google.com/store/apps/dev?id=7337589231316268069">
   <img align="center" src="https://badgen.net/badge/store/contact?icon=googleplay&color=001FFF&labelColor=#000000&label=twitter" />
 </a>
