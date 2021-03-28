@@ -4,6 +4,6 @@
 <a href="https://github.com/Visual917/PS2RPC">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Visual917&repo=PS2RPC&theme=material-palenight" />
 </a>
-<a
+<a>
   <img align="center" src="https://visu.studio/old/gtamoddingcommunity.png" />
 </a>
