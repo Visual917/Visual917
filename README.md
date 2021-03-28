@@ -11,3 +11,6 @@
 <a href="https://discord.gg/NF2MGz9">
   <img align="center" src="https://badgen.net/badge/icon/discord?icon=discord&label" />
 </a>
+<a href="https://discord.gg/NF2MGz9">
+  <img align="center" src="https://badgen.net/badge/icon/discord?icon=discord&label" />
+</a>
