@@ -5,5 +5,5 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Visual917&repo=PS2RPC&theme=material-palenight" />
 </a>
 <a>
-  <img align="center" src="https://visu.studio/old/gtamoddingcommunity.png" />
+  <img align="center" src="https://visu.studio/old/gtamoddingcommunity2.png" />
 </a>
