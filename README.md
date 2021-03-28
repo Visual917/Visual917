@@ -9,8 +9,8 @@
 </a>
 
 <a href="https://discord.gg/NF2MGz9">
-  <img align="center" src="https://badgen.net/badge/icon/discord?icon=discord&color=yellow&label=contact" />
+  <img align="center" src="https://badgen.net/badge/discord/contact?icon=twitter&color=FFA600&labelColor=#000000&label=twitter" />
 </a>
 <a href="https://twitter.com/Visual917">
-  <img align="center" src="https://badgen.net/badge/twitter/contact?icon=twitter&labelColor=#000000&color=yellow&label=twitter" />
+  <img align="center" src="https://badgen.net/badge/twitter/contact?icon=twitter&color=FFA600&labelColor=#000000&label=twitter" />
 </a>
