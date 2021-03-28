@@ -7,3 +7,5 @@
 <img align="center" src="https://visu.studio/old/gtamoddingcommunity1.png">
 <img align="center" src="https://visu.studio/old/ps2developer2.png">
 </a>
+
+https://badgen.net/badge/icon/discord?icon=discord&label
